@@ -20,4 +20,5 @@
     
 </div>
   
-![Snake animation](https://github.com/guilhermerezende10/guilhermerezende10/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guilhermerezende10/guilhermerezende10/blob/output/github-contribution-grid-snake.svg) 
+
