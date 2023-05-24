@@ -1,4 +1,4 @@
-## Hello world!, I'm Guilherme!
+## Hi there! I'm Guilherme
 
 <div>
   
