@@ -15,7 +15,7 @@
     <img align="center" height="45" width="60" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="45" width="60" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="45" width="60" alt="c++-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-    <img align="center" height="45" width="60" alt="nodeJs-icon" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
+    <img align="center" height="50" width="50" alt="nodeJs-icon" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png">
       
    </div>
     <div align="center">
