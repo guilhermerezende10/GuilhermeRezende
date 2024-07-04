@@ -12,7 +12,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">🐺My Best Technologies🐺</h1>
-     <img src="https://skillicons.dev/icons?i=javascript,nodejs,typescript,cpp,java,html,css,vscode,github,figma,git" /><br>
+     <img src="https://skillicons.dev/icons?i=javascript,nodejs,typescript,cpp,java,html,css,scss,angular,vscode,github,figma,git" /><br>
       
    </div>
     <div align="center">
@@ -21,6 +21,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/guilhermerezende10/guilhermerezende10/output/github-contribution-grid-snake.svg" />
 
   <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&color=84D9FFFF&height=70&duration=4000&lines=Thank+you+for+visiting!;Winter+is+comming.;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&color=84D9FFFF&height=70&duration=4000&lines=Thank+you+for+visiting!;Winter+has+come.;">
 </h3>
 
