@@ -357,7 +357,7 @@ footer .socials a:hover {
 .projects {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 4rem;
+  gap: 6rem;
   margin: 0 12rem;
 }
 
@@ -377,7 +377,7 @@ footer .socials a:hover {
 }
 
 .projects__feature {
-  transform: translateY(-16%);
+  /* transform: translateY(-16%); */
   align-self: center;
   justify-self: center;
   width: 80%;
