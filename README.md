@@ -21,6 +21,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/guilhermerezende10/guilhermerezende10/output/github-contribution-grid-snake.svg" />
 
   <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&color=84D9FFFF&height=70&duration=4000&lines=Thank+you+for+visiting!;The+north+remembers.;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&color=84D9FFFF&height=70&duration=4000&lines=Thank+you+for+visiting!;Winter+is+comming.;">
 </h3>
 
