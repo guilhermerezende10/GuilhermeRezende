@@ -11,12 +11,12 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">🐺My Best Technologies🐺</h1>
+    <h1 align="center">My Best Technologies</h1>
      <img src="https://skillicons.dev/icons?i=react,nodejs,angular,javascript,typescript,scss,github,git,vscode,figma" /><br>
       
    </div>
     <div align="center">
-  <h1>🦁My Contributions🦁</h1>
+  <h1>My Contributions</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/guilhermerezende10/guilhermerezende10/output/github-contribution-grid-snake.svg" />
 
